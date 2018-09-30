@@ -1,6 +1,6 @@
 # AJAX HTTP library
 
-### Using JSON Placeholder 
+Using JSON Placeholder 
 
 - Make an HTTP GET Request
 
