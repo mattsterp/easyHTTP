@@ -1,4 +1,4 @@
-# AJAX HTTP library
+# Custom AJAX HTTP library easyHTTP
 
 Using JSON Placeholder 
 
