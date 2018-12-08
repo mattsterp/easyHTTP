@@ -1,8 +1,8 @@
 # easyHTTP
 
-Version 2.0.0
+2.0.0
 
-Library for making HTTP requests
+Custom library for making HTTP requests
 
 ## Author
 
