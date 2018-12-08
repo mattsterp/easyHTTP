@@ -1,10 +1,18 @@
 # easyHTTP
 
-1.0.0
+Version 2.0.0
 
-Custom AJAX, xhr HTTP library
+Library for making HTTP requests
 
-## Using JSON Placeholder
+## Author
+
+Matthew Peters
+
+### License
+
+MIT
+
+### Using JSON Placeholder
 
 - Make an HTTP GET Request
 - Make an HTTP POST Request
