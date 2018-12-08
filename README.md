@@ -1,8 +1,8 @@
 # easyHTTP
 
-1.0.0
+2.0.0
 
-Custom AJAX, xhr HTTP library
+Custom library for making HTTP requests
 
 ## Using JSON Placeholder
 
