@@ -1,14 +1,8 @@
 # easyHTTP
 
-<<<<<<< HEAD
 2.0.0
 
 Custom library for making HTTP requests
-=======
-Version 2.0.0
-
-Library for making HTTP requests
->>>>>>> master
 
 ## Author
 

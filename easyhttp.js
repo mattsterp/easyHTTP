@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /**
  * EasyHTTP Library
  * Library for making HTTP requests
@@ -67,4 +66,3 @@ class EasyHTTP {
     });
   }
 }
-
